@@ -25,4 +25,5 @@ Onde você pode me achar 👇
 
 
 Sou técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software.
+<br/>
 Atualmente estou estudando tecnologias voltadas ao backend.
