@@ -1,4 +1,8 @@
-### Hello There! Meu nome é Felipe Heilmann Marques ✌️
+### Hello There! Meu nome é Felipe Heilmann Marques 
+
+Sou técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software.
+<br/>
+Atualmente estou estudando tecnologias voltadas ao backend!
 
 Onde você pode me achar 👇
 
@@ -22,8 +26,10 @@ Onde você pode me achar 👇
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt= MongoDB> 
 </div><br/>
 
-
-
-Sou técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software.
+E como um bom desenvolvedor, sempre tem aquela musiquinha na hora de programar... Então se quiser conferir 👇
 <br/>
-Atualmente estou estudando tecnologias voltadas ao backend.
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/felipeheilmann?si=c4a8abe863f14bc3)
+
+
+
+
