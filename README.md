@@ -2,7 +2,7 @@
 
 Sou técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software.
 <br/>
-Atualmente estou estudando tecnologias voltadas ao backend!
+Atualmente estou estudando NodeJs e MongoDB!
 
 Onde você pode me achar 👇
 
