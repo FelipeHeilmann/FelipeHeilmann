@@ -10,7 +10,7 @@ Onde você pode me achar 👇
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeheilmannm@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeheilmann/)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeHeilmann&show_icons=true&theme=synthwave)
+![Felipe GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeHeilmann&&show_icons=true&theme=synthwave)
 
 ## Tecnologias que eu gosto de usar
 
