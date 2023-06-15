@@ -24,6 +24,7 @@ Onde você pode me achar 👇
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt= NodeJS>
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt= ExpressJS>
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt= PHP>
+  <br/><br/>
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt= MySql>
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt= PostgreSQL>
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt= MongoDB> 
