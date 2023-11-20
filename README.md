@@ -7,7 +7,7 @@ Meu foco é desenvolvimento backend!
 <br>
 Conteúdos que você vai ver por aqui:
 1. Arquitetura de software
-2. Design Pattens
+2. Design Patterns
 3. Microserviços
 4. Estutura de dados e algoritimos
 
