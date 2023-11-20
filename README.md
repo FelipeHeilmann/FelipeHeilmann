@@ -5,7 +5,12 @@ Sou técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Softwar
 <br/>
 Meu foco é desenvolvimento backend! 
 <br>
-No momento também to curtindo estudar Design Patters e Arquitetura, então esse é um conteúdo que você vai por aqui. 
+Conteúdos que você vai ver por aqui:
+1. Arquitetura de software
+2. Design Pattens
+3. Microserviços
+4. Estutura de dados e algoritimos
+
 
 Onde você pode me achar 👇
 
