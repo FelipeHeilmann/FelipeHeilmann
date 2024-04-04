@@ -1,6 +1,6 @@
 ### Hello There! My name is Felipe Heilmann Marques!! 
 
-I`m a Software Engineering focus on backend developement.
+I'm a Software Engineering focus on backend developement.
 <br>
 You might see here:
 1. Software Architecture
