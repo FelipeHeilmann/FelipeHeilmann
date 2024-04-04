@@ -32,7 +32,7 @@ Where you can find me 👇
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt= MongoDB> 
 </div><br/>
 
-As a good rngineering, i always have something playing in my headphones to help with my work... You can see it here 👇
+As a good engineering, i always have something playing in my headphones to help with my work... You can see it here 👇
 <br/>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/felipeheilmann?si=c4a8abe863f14bc3)
 
